@@ -1,0 +1,16 @@
+todo:
+
+gettext translate //semi-done
+check bitcoin payments
+update user balance minus site fee
+add product //semi-done
+edit profile //semi-done
+scrolling images on product page
+advanced search //ish done
+feedback if you have bought an item
+mark as dispatched
+mark as received (release payment)
+basket and payment pages //semi-done
+on payment page show generated address with a timer
+wishlist /semi-done
+invoices
